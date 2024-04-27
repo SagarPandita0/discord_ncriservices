@@ -30,7 +30,7 @@ async def api_export_discord_chats(channel_id: str = Query(...)):
         raise HTTPException(status_code=400, detail="Channel ID must be numeric.")
     try:
         logging.info("Received token: %s", discord_token)
-        chats = export_discord_chats(channel_id, discord_token)
-        return chats
+        export_discord_chats(channel_id, discord_token)
+        return {"message": "Chats imported to DB "}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

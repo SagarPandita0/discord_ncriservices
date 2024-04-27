@@ -1,18 +1,30 @@
-from sqlalchemy import Column, BigInteger, String, DateTime
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy import (
+    Column,
+    ForeignKey,
+    String,
+    DateTime,
+    Text,
+)
+from sqlalchemy.orm import relationship, declarative_base
 
 Base = declarative_base()
 
 
-class Message(Base):
-    __tablename__ = "messages"
-    id = Column(BigInteger, primary_key=True)
-    timestamp = Column(DateTime)
-    content = Column(String)
-    author_id = Column(BigInteger)
-
-
 class Author(Base):
     __tablename__ = "authors"
-    id = Column(BigInteger, primary_key=True)
+
+    id = Column(String, primary_key=True)
     name = Column(String)
+
+
+class Message(Base):
+    __tablename__ = "messages"
+
+    id = Column(String, primary_key=True)
+    content = Column(Text)
+    timestamp = Column(DateTime, index=True)
+    author_id = Column(String, ForeignKey("authors.id"))
+    author = relationship("Author", back_populates="messages")
+
+
+Author.messages = relationship("Message", order_by=Message.id, back_populates="author")

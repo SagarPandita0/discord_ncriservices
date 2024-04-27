@@ -37,20 +37,16 @@ def export_discord_chats(channel_id, token):
         "dotnet",
         "C:\\Users\\sagar\\Downloads\\ncriservices\\discord_ncriservices\\DiscordChatExporterCLI\\DiscordChatExporter.Cli.dll",
         "export",
-        "-t",
-        token,
-        "-c",
-        channel_id,
-        "--format",
-        "Json",
-        "--output",
-        output_path,
-        "--after",
-        date_after,
+        "-t", token,
+        "-c", channel_id,
+        "--format", "Json",
+        "--output", output_path,
+        "--after", date_after
     ]
     try:
         logging.info("command: %s", command)
         result = subprocess.run(command, capture_output=True, text=True, check=True)
+        logging.info("RESULT: %s", result.stdout)
         if result.returncode == 0:
             load_json_to_db(output_path)
             return {
