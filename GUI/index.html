@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>API Data Viewer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Discord Data Viewer</h1>
+    <div class="search-container">
+      <div class="search-box">
+        <h2>Search by Date</h2>
+        <input type="date" id="startDate" />
+        <input type="date" id="endDate" />
+        <button onclick="searchByDate()">Search</button>
+        <div id="searchByDateOutput" class="output-container"></div>
+      </div>
+      <div class="search-box">
+        <h2>Keyword Search</h2>
+        <input type="text" id="searchTerm" placeholder="Enter search term" />
+        <button onclick="searchByKeyword()">Search</button>
+        <div id="keywordSearchOutput" class="output-container"></div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

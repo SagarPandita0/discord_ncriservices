@@ -28,12 +28,12 @@ async def search_by_keyword(search_term: str):
     except OperationalError:
         raise HTTPException(status_code=500, detail="Database connection failed.")
     try:
-        query = db.query(Message,Author.name).join(Author,Message.author_id==Author.id).filter(Message.content.ilike(f"%{search_term}%"))
+        query = db.query(Message,Author.name,Message.timestamp).join(Author,Message.author_id==Author.id).filter(Message.content.ilike(f"%{search_term}%"))
         logging.info(f"Received QUERY: {query}")
         result = query.all()
         formatted_result = [
-            {"author_name": author_name,"content": message.content}
-            for message, author_name in result
+            {"author_name": author_name,"content": message.content,"timestamp":timestamp}
+            for message, author_name,timestamp in result
         ]
         return formatted_result
     except Exception as e:
