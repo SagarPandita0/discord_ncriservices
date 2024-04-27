@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from .api.by_date_search import router as by_date_search_router
 from .api.chat_exporter import router as chat_exporter_router
 from .api.keyword_search import router as keyword_search_router
+from .api.author_search import router as author_search_router
 from .logging_config import setup_logging
 
 app = FastAPI()
@@ -11,6 +12,7 @@ setup_logging()
 app.include_router(chat_exporter_router)
 app.include_router(keyword_search_router)
 app.include_router(by_date_search_router)
+app.include_router(author_search_router)
 
 # middleware only added for GUI interaction, to be removed in future!
 app.add_middleware(

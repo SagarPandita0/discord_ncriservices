@@ -127,3 +127,24 @@ function createMessageCard(message, containerId) {
 
   document.getElementById(containerId).appendChild(messageCard);
 }
+
+async function searchByAuthor() {
+  const authorName = document.getElementById("authorName").value;
+  try {
+    const response = await fetch(
+      `http://127.0.0.1:8000/search_by_author?author_name=${authorName}`
+    );
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    const data = await response.json();
+    const container = document.getElementById("authorSearchOutput");
+    container.innerHTML = "";
+    data.forEach((message) =>
+      createMessageCard(message, "authorSearchOutput")
+    );
+  } catch (error) {
+    document.getElementById("authorSearchOutput").textContent =
+      "Failed to load data: " + error.message;
+  }
+}
