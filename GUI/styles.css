@@ -17,7 +17,14 @@ input[type="date"] {
   margin: 10px;
   width: 200px;
 }
-
+input[type="text"]:focus,
+input[type="date"]:focus {
+  background-color: rgb(
+    232,
+    240,
+    254
+  ) !important;
+}
 .loader {
   text-align: center;
   padding: 20px;
