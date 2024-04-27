@@ -1,0 +1,1215 @@
+{
+  "guild": {
+    "id": "302094807046684672",
+    "name": "MINECRAFT",
+    "iconUrl": "https://cdn.discordapp.com/icons/302094807046684672/a_916131f4d4e8c6f6eed9f590a1982725.gif?size=512"
+  },
+  "channel": {
+    "id": "910667146185572382",
+    "type": "GuildTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "looking-for-game",
+    "topic": "**PLEASE READ #lfg-guidelines BEFORE POSTING** **PLEASE READ PINS BEFORE POSTING** This channel is for posting LFG (looking for game/group) requests when you are looking to join others to play with."
+  },
+  "dateRange": {
+    "after": "2024-04-20T00:00:00-04:00",
+    "before": null
+  },
+  "exportedAt": "2024-04-27T00:25:31.3997808-04:00",
+  "messages": [
+    {
+      "id": "1233605489787535360",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:27:48.047-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking for nice people to play with me and start a nice world to play together every day bedrock people",
+      "author": {
+        "id": "691749789087301633",
+        "name": "babytoaster24",
+        "discriminator": "0000",
+        "nickname": "babytoaster24",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691749789087301633/b3e2116aed1dc17990b1d8616e69c451.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233605598478602341",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:28:13.961-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Java or Bedrock: **Bedrock!** \n> Version: **Latest 1.20+**\n> Realm / Server: **Realm** \n> Number of players: **40+ Players** \n> Session Time: **AnyTime**\n> Gametype: **SMP Semi-Anarchy, no hacks** \n> Language: **English**",
+      "author": {
+        "id": "1192013680620085248",
+        "name": "godlavawar",
+        "discriminator": "0000",
+        "nickname": "GodLava",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1192013680620085248/ff795f439cb8ccefc2e800a6e2eb460b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233607259758530590",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:34:50.041-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bedrock realms?",
+      "author": {
+        "id": "873260230463606844",
+        "name": "wherethebaddies",
+        "discriminator": "0000",
+        "nickname": "ARRIXY\uD83C\uDF43",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/873260230463606844/91c6a8121fc6205d361e61b753b962eb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233607715478044702",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:36:38.693-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yea",
+      "author": {
+        "id": "1096830975335477278",
+        "name": "kushal_god",
+        "discriminator": "0000",
+        "nickname": "Kushal God",
+        "color": "#D76521",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1135758337938554910",
+            "name": "Coding Enthusiast",
+            "color": "#D76521",
+            "position": 11
+          },
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233608449347031081",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:39:33.661-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Random GC?",
+      "author": {
+        "id": "974989829286813696",
+        "name": "the_grea1_storm",
+        "discriminator": "0000",
+        "nickname": "TheGreatNinja",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/974989829286813696/4693d30e27816e7ff29648e77cfcb2a1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233609298987188295",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:42:56.231-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "java smp with little people",
+      "author": {
+        "id": "774364083856080937",
+        "name": "thesovietpigeon",
+        "discriminator": "0000",
+        "nickname": "mulvey",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/774364083856080937/e09379cb1d29559aeba97518f2ae1d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233609400275439626",
+      "type": "Reply",
+      "timestamp": "2024-04-26T22:43:20.38-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Little as in amount or as in short?",
+      "author": {
+        "id": "1060861680717922334",
+        "name": "captainhix",
+        "discriminator": "0000",
+        "nickname": "CaptainHix",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1060861680717922334/1ad1af961fed398063164c3abd332cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "774364083856080937",
+          "name": "thesovietpigeon",
+          "discriminator": "0000",
+          "nickname": "mulvey",
+          "color": "#95A5A6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "302208908406292481",
+              "name": "Proven Adventurer",
+              "color": "#95A5A6",
+              "position": 9
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/774364083856080937/e09379cb1d29559aeba97518f2ae1d01.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1233609298987188295",
+        "channelId": "910667146185572382",
+        "guildId": "302094807046684672"
+      }
+    },
+    {
+      "id": "1233611335783157821",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:51:01.841-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looking for people to join my server bedrock",
+      "author": {
+        "id": "904165115190972428",
+        "name": "gunner0417",
+        "discriminator": "0000",
+        "nickname": "Wargrym Plays",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/904165115190972428/be7a4ab236c4c0f647881ab996a06602.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233611941679726602",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:53:26.298-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lf somone to play rl with",
+      "author": {
+        "id": "1193728607646924850",
+        "name": "therealjamal_l",
+        "discriminator": "0000",
+        "nickname": "therealjamal",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1193728607646924850/7192059bfbf34ecc02cf0485849c55d6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233612207846068224",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:54:29.757-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looking for craked minecraft server with  a few plugins",
+      "author": {
+        "id": "1165637358692077691",
+        "name": "gamerboi1217",
+        "discriminator": "0000",
+        "nickname": "the gamer",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1165637358692077691/ef68536024ec85dce79f2412c425c89a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233612538957140010",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:55:48.7-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking for players for my Bedrock Survival Server",
+      "author": {
+        "id": "1214904782540644377",
+        "name": "lamentcrypto",
+        "discriminator": "0000",
+        "nickname": "Lamentcrypto",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1214904782540644377/eb426aca9f151b14fd4fba648e58ee42.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233613089027526727",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:57:59.847-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Version: Java 1.20.4\nRealm/Server/World: Server\nNumber of players: 90\nLength of Play Session: Any\nGametype: LifeSteal\nLanguage: English",
+      "author": {
+        "id": "1110397909448536187",
+        "name": "gameonblade_yt",
+        "discriminator": "0000",
+        "nickname": "GameOnBlade",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1110397909448536187/97a1d13b43c566cc673bc87ab22385df.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233613126004506756",
+      "type": "Default",
+      "timestamp": "2024-04-26T22:58:08.663-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yo anyne want to play bedrock the hive bed wars",
+      "author": {
+        "id": "1015638997789315145",
+        "name": "brostufer",
+        "discriminator": "0000",
+        "nickname": "brostufer",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233615538928750663",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:07:43.949-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does anybody have a new survival world I can play with you",
+      "author": {
+        "id": "1188924037120925748",
+        "name": "cyrus_inc.",
+        "discriminator": "0000",
+        "nickname": "That Boy Sponge",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1188924037120925748/9ffdae9ec85d5a0c9ca804d9a7b9fe57.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233616734364373002",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:12:28.963-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lf friendly bedrock survival game",
+      "author": {
+        "id": "1215952581914918956",
+        "name": "eqme",
+        "discriminator": "0000",
+        "nickname": "eqme",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1215952581914918956/e35159c50aab4ee278ada04f78d11738.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233618010582024253",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:17:33.237-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just bought minecraft yesterday.LF people to teach me hoe to play hypixel bedwars",
+      "author": {
+        "id": "720458425502269450",
+        "name": "justcableyk",
+        "discriminator": "0000",
+        "nickname": "cable",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/720458425502269450/9cf7d91697643c855c64698169c178b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233619029239922719",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:21:36.104-04:00",
+      "timestampEdited": "2024-04-26T23:24:13.239-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "JUST WANNA CHILL 17+ java",
+      "author": {
+        "id": "908564722251620372",
+        "name": "flowersfamily1",
+        "discriminator": "0000",
+        "nickname": "flowers family 1",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/908564722251620372/f49f7fc37b3f627346d16b7cc76664d6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233621127696351243",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:29:56.415-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lf fun pvp like smp's",
+      "author": {
+        "id": "995301424915292160",
+        "name": "naythan3399",
+        "discriminator": "0000",
+        "nickname": "Naythan",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/995301424915292160/761b62f149cf48c3bd637ac536d5a17a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233622338914746438",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:34:45.192-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looking for a active smp",
+      "author": {
+        "id": "584809933292175360",
+        "name": "snipz_wtv",
+        "discriminator": "0000",
+        "nickname": "snipz_wtv",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/584809933292175360/cc70897d7c9d7724ddd702ae48449a69.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233622884815995042",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:36:55.345-04:00",
+      "timestampEdited": "2024-04-26T23:37:41.84-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wrong chat mb",
+      "author": {
+        "id": "1002951618330902738",
+        "name": "flagthegooberking",
+        "discriminator": "0000",
+        "nickname": "flag the goober king",
+        "color": "#F25858",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1135757823280693368",
+            "name": "Redstone Technician",
+            "color": "#F25858",
+            "position": 15
+          },
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1002951618330902738/e54fa4b04c2eb86a34e35a79bc34c88d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233622933235175434",
+      "type": "Reply",
+      "timestamp": "2024-04-26T23:37:06.889-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s Mean",
+      "author": {
+        "id": "1232851004731555900",
+        "name": "dinosaur616",
+        "discriminator": "0000",
+        "nickname": "Dinosaur616",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1232851004731555900/93d297dd969b6aa1d1c80ad79abaeb10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1002951618330902738",
+          "name": "flagthegooberking",
+          "discriminator": "0000",
+          "nickname": "flag the goober king",
+          "color": "#F25858",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1135757823280693368",
+              "name": "Redstone Technician",
+              "color": "#F25858",
+              "position": 15
+            },
+            {
+              "id": "302208908406292481",
+              "name": "Proven Adventurer",
+              "color": "#95A5A6",
+              "position": 9
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1002951618330902738/e54fa4b04c2eb86a34e35a79bc34c88d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1233622884815995042",
+        "channelId": "910667146185572382",
+        "guildId": "302094807046684672"
+      }
+    },
+    {
+      "id": "1233623457925955645",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:39:11.985-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lf players for my chill java 1.20.1 SMP",
+      "author": {
+        "id": "379065711701524480",
+        "name": "landeryt",
+        "discriminator": "0000",
+        "nickname": "LanderYT",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/379065711701524480/e9bfe9e89df878864d44b3614156543d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233624519508361277",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:43:25.086-04:00",
+      "timestampEdited": "2024-04-26T23:43:50.002-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Java or Bedrock (include version):** Both\n**Realm/Server/World (specify which, not a name):** Server and maybe Realm\n**Number of players (if applicable):** We need 25+ (Have 10 rn)\n**Length of Play Session (MUST be actively playing):** 1-3 hours at minimum\n**Gametype (specify if bedwars, survival, creative, etc):** Survival, we are making the Greatest SMP ever made, it has the funniest people, will entertain viewers, make videos (optional) and have a custom mod/addon/plugin made like how lifesteal has their own mod/plugin!\n\n- We are looking for a Server manager, mods and funny people!\n**Language**\nEnglish",
+      "author": {
+        "id": "1190974795899207693",
+        "name": "jadeluvsjudd",
+        "discriminator": "0000",
+        "nickname": "Jade",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190974795899207693/c8cee8bc63cedde924bf95ba66185d25.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233625003782701157",
+      "type": "Default",
+      "timestamp": "2024-04-26T23:45:20.546-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking for newly started realms",
+      "author": {
+        "id": "803502433837252658",
+        "name": "rj_blackrose",
+        "discriminator": "0000",
+        "nickname": "\uD83D\uDDA4   RJ  \uD83C\uDF39",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/803502433837252658/9bf724ef0b28b191162b26ece85a0da9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233629489762795580",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:03:10.087-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looking for someone to play with vc with indian or pakistani",
+      "author": {
+        "id": "664045326822539304",
+        "name": "i_hate_javascript",
+        "discriminator": "0000",
+        "nickname": "Have A Good Day",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664045326822539304/5203eb2f3b6d78f3c97a065c76f34f7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233630450518327297",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:06:59.149-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looking for someone to play surivial with",
+      "author": {
+        "id": "568873164868943882",
+        "name": "ruben6727",
+        "discriminator": "0000",
+        "nickname": "Ｒｕｂｅｎ",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568873164868943882/29e1e0b382b5060098edaa89e827c397.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233631096361586729",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:09:33.13-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lf for player to join   Java or Bedrock (include version):Java\nRealm/Server/World (specify which, not a name):Server\nNumber of players (if applicable):13\nLength of Play Session (MUST be actively playing):1 hour\nGametype (specify if bedwars, survival, creative, etc):Survival\nLanguage:English",
+      "author": {
+        "id": "884698479610437632",
+        "name": "swarith09",
+        "discriminator": "0000",
+        "nickname": "Swarith_09:)",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/884698479610437632/288e0c3766c61302330dab72263d632c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233631698319573044",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:11:56.648-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking for Java Servers needing staff (specifically Admin / Plugin Developer) msg me if needed.",
+      "author": {
+        "id": "1229019850404266007",
+        "name": "abb3v",
+        "discriminator": "0000",
+        "nickname": "abbev",
+        "color": "#D76521",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1135758337938554910",
+            "name": "Coding Enthusiast",
+            "color": "#D76521",
+            "position": 11
+          },
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1229019850404266007/ef9c18f4e0b9a570beab30ede3e6dc72.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233632553962049576",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:15:20.649-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anywon has a realm I can join plz",
+      "author": {
+        "id": "1216416513007947889",
+        "name": "minecraft44__12956",
+        "discriminator": "0000",
+        "nickname": "Minecraft 44",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1216416513007947889/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233632779166814208",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:16:14.342-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lf someone to play java 1.19.2 with",
+      "author": {
+        "id": "919711484072841247",
+        "name": "unnl.vl",
+        "discriminator": "0000",
+        "nickname": "unnl.vl",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919711484072841247/d01ce6522034e85f7e29f2cbc559e0e4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233632828390899823",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:16:26.078-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking for more members in a war im about to fight. hmu for details",
+      "author": {
+        "id": "952196348369842266",
+        "name": "kri.about.it",
+        "discriminator": "0000",
+        "nickname": "kidra",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/952196348369842266/6d5f726c056f7ceba4d6bed1c54ede29.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233632895567003681",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:16:42.094-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking for a server that has a nice community",
+      "author": {
+        "id": "1212450493922811977",
+        "name": "staticdns",
+        "discriminator": "0000",
+        "nickname": "</ERROR 403>",
+        "color": "#D76521",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1135758337938554910",
+            "name": "Coding Enthusiast",
+            "color": "#D76521",
+            "position": 11
+          },
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1212450493922811977/dd6bc198b9599d851b1c8da466fc2013.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233633609106325565",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:19:32.215-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "guys add me in friends to play with me i have 1.20.4 smp with 5 plls who wants join just add me in friends",
+      "author": {
+        "id": "1141059523843457126",
+        "name": "tato0100",
+        "discriminator": "0000",
+        "nickname": "Tato",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1141059523843457126/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233633890535604244",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:20:39.313-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looking for latest bedrock realm server",
+      "author": {
+        "id": "1183487444897759442",
+        "name": "l0v3s0sa",
+        "discriminator": "0000",
+        "nickname": "L0vE$oSa",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1183487444897759442/8e2f28b8935be425ba946220690d700b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233633993115697234",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:21:03.77-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lookin for someone to play with me on Survival Bedrock  1.20.32",
+      "author": {
+        "id": "1144867311493324830",
+        "name": "tightzaney.",
+        "discriminator": "0000",
+        "nickname": "IrishMan",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1144867311493324830/3a785556cb80735491f37e17cd726411.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1233634967779807243",
+      "type": "Default",
+      "timestamp": "2024-04-27T00:24:56.148-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "JAVA\nSERVER\n100 PLAYERS\nANY AMOUNT\nNATIONS\nENGLISH",
+      "author": {
+        "id": "1231391681887338588",
+        "name": "sniperspack",
+        "discriminator": "0000",
+        "nickname": "sniperspack",
+        "color": "#95A5A6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "302208908406292481",
+            "name": "Proven Adventurer",
+            "color": "#95A5A6",
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1231391681887338588/c959549c668ca8c84bf6eba4f12688da.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 36
+}
