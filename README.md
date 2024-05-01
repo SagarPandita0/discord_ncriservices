@@ -64,12 +64,14 @@ Utilize the application as follows:
 - To **export chats** from Discord, navigate to the `/export-discord-chats` endpoint and provide a channel ID.
 - To **search by keyword**, access the `/search` endpoint and enter your search term.
 - To **filter by date range**, use the `/search_by_date` endpoint with the desired start and end dates.
+- To **filter by author name**, use the `/search_by_author`
 
 ## API Endpoints
 
 The following endpoints are available:
 
 - `GET /export-discord-chats/?channel_id={channel_id}`
-- `GET /search/?search_term={search_term}`
-- `GET /search_by_date/?start_date={start_date}&end_date={end_date}`
+- `GET /search?search_term={search_term}`
+- `GET /search_by_date?start_date={start_date}&end_date={end_date}`
+- `GET /search_by_author?author_name={name}`
 
